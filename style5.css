@@ -57,7 +57,7 @@
  * Aplica un borde y una sombra para resaltarla.
  */
 .image-wrapper.selected {
-    border: 4px solid #3b82f6; /* Borde azul vibrante para la selección */
+    border: 4px solid #3bf673; /* Borde azul vibrante para la selección */
     box-shadow: 0 0 0 8px rgba(59, 130, 246, 0.3); /* Sombra exterior azul suave */
     transform: scale(1.03); /* Ligeramente más grande para enfatizar la selección */
 }
